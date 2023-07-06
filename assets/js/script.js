@@ -1,6 +1,6 @@
 'use strict';
 
-
+console.log('test');
 
 /**
  * add event on element
